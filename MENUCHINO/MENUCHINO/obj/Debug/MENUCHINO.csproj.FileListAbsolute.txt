@@ -1,0 +1,11 @@
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\bin\Debug\MENUCHINO.exe.config
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\bin\Debug\MENUCHINO.exe
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\bin\Debug\MENUCHINO.pdb
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.Form1.resources
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.Properties.Resources.resources
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.exe
+C:\Users\jorge\source\repos\MENUCHINO\MENUCHINO\obj\Debug\MENUCHINO.pdb
